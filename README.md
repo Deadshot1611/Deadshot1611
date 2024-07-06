@@ -6,9 +6,10 @@
 <h3 align="left">Projects:</h3>
 <ul>
     <li>AI Law Associate: Developed using HTML and VoiceFlow to enhance productivity in law firms.</li>
+    <li>Weather App: Implemented using function calling, API integration, and Streamlit for the user interface.</li>
     <li>Conversational Chatbot: Built with Python, utilizing the Facebook/BlenderBot-400M-distill model, wrapped with Gradio.</li>
     <li>AI Customer Service Bot: Created with Python using the Kaludi/Customer-Support-Assistant-V2 model, integrated with FastAPI and deployed on Hugging Face Spaces.</li>
-    <li>Weather App: Implemented using function calling, API integration, and Streamlit for the user interface.</li>
+    <li>AI Teaching Assistant: Designed to assist in educational settings, providing real-time answers and resources to students' queries using advanced NLP techniques.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
